@@ -22,7 +22,12 @@ export async function generateSitemaps(): Promise<{ id: string }[]> {
   return routes;
 }
 
-async function sitemap({ id }: { id: string }): Promise<MetadataRoute.Sitemap> {
+async function sitemap(props: {
+  id: Promise<string>
+}): Promise<MetadataRoute.Sitemap> {
+  
+  const id = await props.id;
+  
   if (id === "general") {
     const root = generateRootPagesSitemap();
     const utility = generateUtilityPagesSitemap();

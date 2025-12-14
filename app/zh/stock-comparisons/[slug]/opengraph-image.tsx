@@ -17,7 +17,7 @@ export async function generateImageMetadata({
   );
 
   if (!matchingComparison) {
-    return new Response("图片未找到", { status: 404 });
+    return []; // ✅ 必须返回空数组
   }
 
   const { title } = generatePageInfo(matchingComparison);

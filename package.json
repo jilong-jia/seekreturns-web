@@ -3,35 +3,34 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "@google-cloud/profiler": "^6.0.3",
-    "@next/third-parties": "^15.5.2",
-    "algoliasearch": "^5.37.0",
+    "@next/third-parties": "^16.0.10",
+    "algoliasearch": "^5.46.0",
     "clsx": "^2.1.1",
     "d3": "^7.9.0",
-    "firebase-admin": "^13.5.0",
-    "katex": "^0.16.22",
-    "lightweight-charts": "^5.0.8",
-    "next": "15.5.2",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "firebase-admin": "^13.6.0",
+    "katex": "^0.16.27",
+    "lightweight-charts": "^5.0.9",
+    "next": "16.0.10",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "react-icons": "^5.5.0",
-    "react-instantsearch-nextjs": "^1.0.1"
+    "react-instantsearch-nextjs": "^1.0.9"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@types/d3": "^7.4.3",
-    "@types/node": "^24",
+    "@types/node": "^25",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.5.2",
-    "prettier": "^3.6.2",
+    "eslint-config-next": "16.0.10",
+    "prettier": "^3.7.4",
     "prettier-plugin-css-order": "^2.1.2",
     "typescript": "^5"
   }
