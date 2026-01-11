@@ -2741,11 +2741,6 @@
   },
   {
     "stockOneSymbol": "ABEV",
-    "stockTwoSymbol": "K",
-    "slug": "abev-vs-k"
-  },
-  {
-    "stockOneSymbol": "ABEV",
     "stockTwoSymbol": "KDP",
     "slug": "abev-vs-kdp"
   },
@@ -5583,11 +5578,6 @@
     "stockOneSymbol": "ACI",
     "stockTwoSymbol": "HSY",
     "slug": "aci-vs-hsy"
-  },
-  {
-    "stockOneSymbol": "ACI",
-    "stockTwoSymbol": "K",
-    "slug": "aci-vs-k"
   },
   {
     "stockOneSymbol": "ACI",
@@ -8858,11 +8848,6 @@
     "stockOneSymbol": "ADM",
     "stockTwoSymbol": "HSY",
     "slug": "adm-vs-hsy"
-  },
-  {
-    "stockOneSymbol": "ADM",
-    "stockTwoSymbol": "K",
-    "slug": "adm-vs-k"
   },
   {
     "stockOneSymbol": "ADM",
@@ -17050,31 +17035,6 @@
     "slug": "akr-vs-reg"
   },
   {
-    "stockOneSymbol": "AKRO",
-    "stockTwoSymbol": "ARGX",
-    "slug": "akro-vs-argx"
-  },
-  {
-    "stockOneSymbol": "AKRO",
-    "stockTwoSymbol": "ASND",
-    "slug": "akro-vs-asnd"
-  },
-  {
-    "stockOneSymbol": "AKRO",
-    "stockTwoSymbol": "INSM",
-    "slug": "akro-vs-insm"
-  },
-  {
-    "stockOneSymbol": "AKRO",
-    "stockTwoSymbol": "RPRX",
-    "slug": "akro-vs-rprx"
-  },
-  {
-    "stockOneSymbol": "AKRO",
-    "stockTwoSymbol": "UTHR",
-    "slug": "akro-vs-uthr"
-  },
-  {
     "stockOneSymbol": "AL",
     "stockTwoSymbol": "UHAL",
     "slug": "al-vs-uhal"
@@ -18403,11 +18363,6 @@
     "stockOneSymbol": "ALC",
     "stockTwoSymbol": "ZTS",
     "slug": "alc-vs-zts"
-  },
-  {
-    "stockOneSymbol": "ALE",
-    "stockTwoSymbol": "SRE",
-    "slug": "ale-vs-sre"
   },
   {
     "stockOneSymbol": "ALG",
@@ -55871,11 +55826,6 @@
   },
   {
     "stockOneSymbol": "BF.B",
-    "stockTwoSymbol": "K",
-    "slug": "bf-b-vs-k"
-  },
-  {
-    "stockOneSymbol": "BF.B",
     "stockTwoSymbol": "KDP",
     "slug": "bf-b-vs-kdp"
   },
@@ -56113,11 +56063,6 @@
     "stockOneSymbol": "BG",
     "stockTwoSymbol": "HSY",
     "slug": "bg-vs-hsy"
-  },
-  {
-    "stockOneSymbol": "BG",
-    "stockTwoSymbol": "K",
-    "slug": "bg-vs-k"
   },
   {
     "stockOneSymbol": "BG",
@@ -57208,11 +57153,6 @@
     "stockOneSymbol": "BJ",
     "stockTwoSymbol": "HSY",
     "slug": "bj-vs-hsy"
-  },
-  {
-    "stockOneSymbol": "BJ",
-    "stockTwoSymbol": "K",
-    "slug": "bj-vs-k"
   },
   {
     "stockOneSymbol": "BJ",
@@ -68526,11 +68466,6 @@
   },
   {
     "stockOneSymbol": "BTI",
-    "stockTwoSymbol": "K",
-    "slug": "bti-vs-k"
-  },
-  {
-    "stockOneSymbol": "BTI",
     "stockTwoSymbol": "KDP",
     "slug": "bti-vs-kdp"
   },
@@ -68748,11 +68683,6 @@
     "stockOneSymbol": "BUD",
     "stockTwoSymbol": "HSY",
     "slug": "bud-vs-hsy"
-  },
-  {
-    "stockOneSymbol": "BUD",
-    "stockTwoSymbol": "K",
-    "slug": "bud-vs-k"
   },
   {
     "stockOneSymbol": "BUD",
@@ -71883,11 +71813,6 @@
     "stockOneSymbol": "CAG",
     "stockTwoSymbol": "HRL",
     "slug": "cag-vs-hrl"
-  },
-  {
-    "stockOneSymbol": "CAG",
-    "stockTwoSymbol": "K",
-    "slug": "cag-vs-k"
   },
   {
     "stockOneSymbol": "CAG",
@@ -75881,11 +75806,6 @@
   },
   {
     "stockOneSymbol": "CCEP",
-    "stockTwoSymbol": "K",
-    "slug": "ccep-vs-k"
-  },
-  {
-    "stockOneSymbol": "CCEP",
     "stockTwoSymbol": "KDP",
     "slug": "ccep-vs-kdp"
   },
@@ -78921,11 +78841,6 @@
   },
   {
     "stockOneSymbol": "CELH",
-    "stockTwoSymbol": "K",
-    "slug": "celh-vs-k"
-  },
-  {
-    "stockOneSymbol": "CELH",
     "stockTwoSymbol": "KDP",
     "slug": "celh-vs-kdp"
   },
@@ -80748,11 +80663,6 @@
     "stockOneSymbol": "CHD",
     "stockTwoSymbol": "HSY",
     "slug": "chd-vs-hsy"
-  },
-  {
-    "stockOneSymbol": "CHD",
-    "stockTwoSymbol": "K",
-    "slug": "chd-vs-k"
   },
   {
     "stockOneSymbol": "CHD",
@@ -85451,11 +85361,6 @@
   },
   {
     "stockOneSymbol": "CL",
-    "stockTwoSymbol": "K",
-    "slug": "cl-vs-k"
-  },
-  {
-    "stockOneSymbol": "CL",
     "stockTwoSymbol": "KDP",
     "slug": "cl-vs-kdp"
   },
@@ -87348,11 +87253,6 @@
     "stockOneSymbol": "CLX",
     "stockTwoSymbol": "HSY",
     "slug": "clx-vs-hsy"
-  },
-  {
-    "stockOneSymbol": "CLX",
-    "stockTwoSymbol": "K",
-    "slug": "clx-vs-k"
   },
   {
     "stockOneSymbol": "CLX",
@@ -95346,11 +95246,6 @@
   },
   {
     "stockOneSymbol": "COST",
-    "stockTwoSymbol": "K",
-    "slug": "cost-vs-k"
-  },
-  {
-    "stockOneSymbol": "COST",
     "stockTwoSymbol": "KDP",
     "slug": "cost-vs-kdp"
   },
@@ -96833,11 +96728,6 @@
     "stockOneSymbol": "CPB",
     "stockTwoSymbol": "HRL",
     "slug": "cpb-vs-hrl"
-  },
-  {
-    "stockOneSymbol": "CPB",
-    "stockTwoSymbol": "K",
-    "slug": "cpb-vs-k"
   },
   {
     "stockOneSymbol": "CPB",
@@ -112496,11 +112386,6 @@
   },
   {
     "stockOneSymbol": "DEO",
-    "stockTwoSymbol": "K",
-    "slug": "deo-vs-k"
-  },
-  {
-    "stockOneSymbol": "DEO",
     "stockTwoSymbol": "KDP",
     "slug": "deo-vs-kdp"
   },
@@ -112668,11 +112553,6 @@
     "stockOneSymbol": "DG",
     "stockTwoSymbol": "HSY",
     "slug": "dg-vs-hsy"
-  },
-  {
-    "stockOneSymbol": "DG",
-    "stockTwoSymbol": "K",
-    "slug": "dg-vs-k"
   },
   {
     "stockOneSymbol": "DG",
@@ -115173,11 +115053,6 @@
     "stockOneSymbol": "DLTR",
     "stockTwoSymbol": "HSY",
     "slug": "dltr-vs-hsy"
-  },
-  {
-    "stockOneSymbol": "DLTR",
-    "stockTwoSymbol": "K",
-    "slug": "dltr-vs-k"
   },
   {
     "stockOneSymbol": "DLTR",
@@ -124761,11 +124636,6 @@
   },
   {
     "stockOneSymbol": "EL",
-    "stockTwoSymbol": "K",
-    "slug": "el-vs-k"
-  },
-  {
-    "stockOneSymbol": "EL",
     "stockTwoSymbol": "KDP",
     "slug": "el-vs-kdp"
   },
@@ -124948,16 +124818,6 @@
     "stockOneSymbol": "ELF",
     "stockTwoSymbol": "UL",
     "slug": "elf-vs-ul"
-  },
-  {
-    "stockOneSymbol": "ELP",
-    "stockTwoSymbol": "SBS",
-    "slug": "elp-vs-sbs"
-  },
-  {
-    "stockOneSymbol": "ELP",
-    "stockTwoSymbol": "SRE",
-    "slug": "elp-vs-sre"
   },
   {
     "stockOneSymbol": "ELS",
@@ -142511,11 +142371,6 @@
   },
   {
     "stockOneSymbol": "FMX",
-    "stockTwoSymbol": "K",
-    "slug": "fmx-vs-k"
-  },
-  {
-    "stockOneSymbol": "FMX",
     "stockTwoSymbol": "KDP",
     "slug": "fmx-vs-kdp"
   },
@@ -152056,11 +151911,6 @@
   },
   {
     "stockOneSymbol": "GIS",
-    "stockTwoSymbol": "K",
-    "slug": "gis-vs-k"
-  },
-  {
-    "stockOneSymbol": "GIS",
     "stockTwoSymbol": "KDP",
     "slug": "gis-vs-kdp"
   },
@@ -161311,11 +161161,6 @@
   },
   {
     "stockOneSymbol": "HIMS",
-    "stockTwoSymbol": "K",
-    "slug": "hims-vs-k"
-  },
-  {
-    "stockOneSymbol": "HIMS",
     "stockTwoSymbol": "KDP",
     "slug": "hims-vs-kdp"
   },
@@ -164991,11 +164836,6 @@
   },
   {
     "stockOneSymbol": "HRL",
-    "stockTwoSymbol": "K",
-    "slug": "hrl-vs-k"
-  },
-  {
-    "stockOneSymbol": "HRL",
     "stockTwoSymbol": "KDP",
     "slug": "hrl-vs-kdp"
   },
@@ -165723,11 +165563,6 @@
     "stockOneSymbol": "HST",
     "stockTwoSymbol": "WY",
     "slug": "hst-vs-wy"
-  },
-  {
-    "stockOneSymbol": "HSY",
-    "stockTwoSymbol": "K",
-    "slug": "hsy-vs-k"
   },
   {
     "stockOneSymbol": "HSY",
@@ -167453,11 +167288,6 @@
     "stockOneSymbol": "HWM",
     "stockTwoSymbol": "SNA",
     "slug": "hwm-vs-sna"
-  },
-  {
-    "stockOneSymbol": "HWM",
-    "stockTwoSymbol": "SPR",
-    "slug": "hwm-vs-spr"
   },
   {
     "stockOneSymbol": "HWM",
@@ -174255,11 +174085,6 @@
     "slug": "ip-vs-yumc"
   },
   {
-    "stockOneSymbol": "IPG",
-    "stockTwoSymbol": "OMC",
-    "slug": "ipg-vs-omc"
-  },
-  {
     "stockOneSymbol": "IPGP",
     "stockTwoSymbol": "KLAC",
     "slug": "ipgp-vs-klac"
@@ -180358,151 +180183,6 @@
     "stockOneSymbol": "JXN",
     "stockTwoSymbol": "UNM",
     "slug": "jxn-vs-unm"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "KDP",
-    "slug": "k-vs-kdp"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "KHC",
-    "slug": "k-vs-khc"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "KMB",
-    "slug": "k-vs-kmb"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "KO",
-    "slug": "k-vs-ko"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "KOF",
-    "slug": "k-vs-kof"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "KR",
-    "slug": "k-vs-kr"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "KVUE",
-    "slug": "k-vs-kvue"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "LRN",
-    "slug": "k-vs-lrn"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "LW",
-    "slug": "k-vs-lw"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "MDLZ",
-    "slug": "k-vs-mdlz"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "MKC",
-    "slug": "k-vs-mkc"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "MNST",
-    "slug": "k-vs-mnst"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "MO",
-    "slug": "k-vs-mo"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "PEP",
-    "slug": "k-vs-pep"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "PFGC",
-    "slug": "k-vs-pfgc"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "PG",
-    "slug": "k-vs-pg"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "PM",
-    "slug": "k-vs-pm"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "PPC",
-    "slug": "k-vs-ppc"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "PRMB",
-    "slug": "k-vs-prmb"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "SFM",
-    "slug": "k-vs-sfm"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "SGI",
-    "slug": "k-vs-sgi"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "SJM",
-    "slug": "k-vs-sjm"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "STZ",
-    "slug": "k-vs-stz"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "SYY",
-    "slug": "k-vs-syy"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "TGT",
-    "slug": "k-vs-tgt"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "TSN",
-    "slug": "k-vs-tsn"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "UL",
-    "slug": "k-vs-ul"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "USFD",
-    "slug": "k-vs-usfd"
-  },
-  {
-    "stockOneSymbol": "K",
-    "stockTwoSymbol": "WMT",
-    "slug": "k-vs-wmt"
   },
   {
     "stockOneSymbol": "KB",
